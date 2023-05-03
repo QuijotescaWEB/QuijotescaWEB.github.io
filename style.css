@@ -43,11 +43,12 @@ h1 {
 }
 
 .nombreDeMarca {
-  font-size: 30rem;
+  font-size: 32rem;
 }
 
 p {
-    color: #666;
+    color: black;
+    font-size: 20rem;
 }
 
 img {
@@ -66,9 +67,9 @@ img {
 
 .banner{
   width: 100%;
-  height: 15rem;
+  height: 20rem;
   top:0rem;
-  background-color: #0c0202;
+  background-color:black;
   color:white;
   text-align: center;
   font-size: 14rem;
@@ -89,13 +90,33 @@ header {
 .botonDesplegable {
     display: block;
     position:fixed;
-    top: 18rem;
+    width: 65;
+    height: 65;
+    top: 28rem;
     left:13rem;
     padding: 5rem; 
-    background-color: black;
+    background-color:white;
     color: #fff;
     border: none;
     cursor: pointer;
+  }
+
+  .botonBolsa{
+    display: block;
+    position:fixed;
+    width: 65rem;
+    height: 65rem;
+    top: 10rem;
+    right:13rem;
+    padding: 5rem; 
+    background-image: url(/bolso\ de\ compras\ icono.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+
   }
 
   /*Estilos del menu desplegable*/
@@ -120,7 +141,12 @@ header {
   }
 
   .navbar-toggle {
-    background-color: black;
+    width: 25rem;
+    height: 25rem;
+    background-image: url(/ico\ de\ menu.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
     color: white;
     border: none;
   }

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 175 129">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #020202;
+      }
+    </style>
+  </defs>
+  <g id="Capa_2_copia_3" data-name="Capa 2 copia 3">
+    <g>
+      <g>
+        <rect x=".5" y="103.5" width="174" height="25"/>
+        <path d="m174,104v24H1v-24h173m1-1H0v26h175v-26h0Z"/>
+      </g>
+      <polygon points="120 18 119 18 119 25 120 25 120 18 120 18"/>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-2" x=".5" y="103.5" width="174" height="25"/>
+        <path d="m174,104v24H1v-24h173m1-1H0v26h175v-26h0Z"/>
+      </g>
+      <polygon points="120 18 119 18 119 25 120 25 120 18 120 18"/>
+    </g>
+    <g>
+      <g>
+        <path d="m173.5,104.5v23H1.5v-23h172m1-1H.5v25h174v-25h0Z"/>
+        <path class="cls-1" d="m174,104v24H1v-24h173m1-1H0v26h175v-26h0Z"/>
+      </g>
+      <polygon points="120 18 119 18 119 25 120 25 120 18 120 18"/>
+    </g>
+  </g>
+  <g id="Capa_2_copia_2" data-name="Capa 2 copia 2">
+    <g>
+      <rect x=".5" y="52.5" width="174" height="25"/>
+      <path d="m174,53v24H1v-24h173m1-1H0v26h175v-26h0Z"/>
+    </g>
+    <g>
+      <rect x=".5" y="52.5" width="174" height="25"/>
+      <path d="m174,53v24H1v-24h173m1-1H0v26h175v-26h0Z"/>
+    </g>
+    <g>
+      <path d="m173.5,53.5v23H1.5v-23h172m1-1H.5v25h174v-25h0Z"/>
+      <path class="cls-1" d="m174,53v24H1v-24h173m1-1H0v26h175v-26h0Z"/>
+    </g>
+  </g>
+  <g id="Capa_2_copia" data-name="Capa 2 copia">
+    <g>
+      <rect x=".5" y=".5" width="174" height="25"/>
+      <path d="m174,1v24H1V1h173m1-1H0v26h175V0h0Z"/>
+    </g>
+    <g>
+      <rect x=".5" y=".5" width="174" height="25"/>
+      <path d="m174,1v24H1V1h173m1-1H0v26h175V0h0Z"/>
+    </g>
+    <g>
+      <path d="m173.5,1.5v23H1.5V1.5h172m1-1H.5v25h174V.5h0Z"/>
+      <path class="cls-1" d="m174,1v24H1V1h173m1-1H0v26h175V0h0Z"/>
+    </g>
+  </g>
+</svg>
