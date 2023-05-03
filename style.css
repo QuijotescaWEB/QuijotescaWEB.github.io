@@ -89,27 +89,27 @@ header {
 /* Estilos del boton de navegacion*/
 .botonDesplegable {
     display: block;
-    position:fixed;
+    position:absolute;
     width: 65;
     height: 65;
-    top: 28rem;
-    left:13rem;
+    top: 22rem;
+    left:10rem;
     padding: 5rem; 
     background-color:white;
-    color: #fff;
+    color: white;
     border: none;
     cursor: pointer;
   }
 
   .botonBolsa{
     display: block;
-    position:fixed;
+    position:absolute;
     width: 65rem;
     height: 65rem;
-    top: 10rem;
-    right:13rem;
-    padding: 5rem; 
-    background-image: url(/bolso\ de\ compras\ icono.svg);
+    top: 4rem;
+    right:0rem;
+    padding: 0rem; 
+    background-image: url(/bolsaDeCompras.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -143,7 +143,7 @@ header {
   .navbar-toggle {
     width: 25rem;
     height: 25rem;
-    background-image: url(/ico\ de\ menu.svg);
+    background-image: url(/MenuIco.svg);
     background-size: cover;
     background-position: center;
     background-repeat:no-repeat;
