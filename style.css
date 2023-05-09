@@ -133,7 +133,7 @@ header {
   }
 
   .link a:hover{
-    background-color: rgba(54, 53, 53, 0.432);
+    background-color: rgba(117, 114, 114, 0.486);
   }
 
   .botonDesplegable:hover .link{
@@ -143,17 +143,17 @@ header {
   .navbar-toggle {
     width: 25rem;
     height: 25rem;
-    background-image: url(/MenuIco.svg);
+    background-image: url(/IcoMenu.png);
+    background-color: white;
     background-size: cover;
     background-position: center;
     background-repeat:no-repeat;
-    color: white;
-    border: none;
+    border:none;
   }
   
   .row{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
     grid-gap: 2rem;
   }
 
@@ -198,3 +198,7 @@ h2 {
     margin-bottom: 20rem;
 }
 
+.producto{
+  width: 200rem;
+  height: 200rem;
+}
